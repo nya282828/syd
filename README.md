@@ -1,6 +1,7 @@
 # syd
 
 > A Vue.js project
+> node v9 / npm 5.6.0
 
 ## Build Setup
 
